@@ -28,7 +28,7 @@
 class Teamdesk
 {
 	// internal constant to enable/disable debugging
-	const DEBUG = true;
+	const DEBUG = false;
 
 	// current version
 	const VERSION = '1.0.0';
